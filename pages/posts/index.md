@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: Journal
+date: 2022-01-13
 ---
 
 # Posts
